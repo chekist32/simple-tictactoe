@@ -1,4 +1,4 @@
-## Project from classses
+## Project from classes
 Stack: [Vue.js](https://vuejs.org/), [Express.js](https://expressjs.com/), [Node.js WebSocket library](https://github.com/websockets/ws).
 
 
